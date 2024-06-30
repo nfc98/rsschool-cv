@@ -4,7 +4,7 @@ Phome: +998946698535
 GitHub:https://github.com/nfc98
 # Skills:  
 Html  
-css
+css/
 # Language:  
 Russian native  
 Uzbek native  
